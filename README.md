@@ -1,3 +1,6 @@
+# ARCHIVED
+Use [templates-ecosystem/template-yarn-berry](https://github.com/templates-ecosystem/template-yarn-berry) instead.
+
 # template-yarn-berry
 
 ### 📚 Template stack
